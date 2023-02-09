@@ -1,4 +1,4 @@
 # supreme-goggles
 Learning Repo for GitHub Practice
 
-# Comment contributed from Visual Code
+Added some notes via VisualCode - 02092023
